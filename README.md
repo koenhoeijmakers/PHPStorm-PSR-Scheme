@@ -1,2 +1,2 @@
-# phpstorm-psr-code-styling
-PSR-0/2 code styling for phpStorm
+# PHPStorm PSR-0 & PSR-2 Code Styling
+phpstorm importable code styling scheme
